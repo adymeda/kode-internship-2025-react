@@ -33,4 +33,4 @@
 4. Real-time отслеживание состояния сети устройства<br />
 Состояние сети отображается в части Top App Bar
 5. Опубликовать проект на GitHub pages
-Проект доступен по адресу https://nikhegg.github.io/kode-intership-2025-react/
+Проект доступен по адресу https://adymeda.github.io/kode-internship-2025-react/
